@@ -1,10 +1,8 @@
 package com.hg.learning;
 
-import com.hg.learning.toBeMarshlled.DPropertyOrder;
 import com.hg.learning.toBeMarshlled.EList;
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 

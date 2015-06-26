@@ -1,6 +1,5 @@
 package com.hg.learning;
 
-import com.hg.learning.toBeMarshlled.BAccessorField;
 import com.hg.learning.toBeMarshlled.CAccessOrder;
 import org.junit.Test;
 

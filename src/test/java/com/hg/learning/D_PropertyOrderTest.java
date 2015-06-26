@@ -1,6 +1,5 @@
 package com.hg.learning;
 
-import com.hg.learning.toBeMarshlled.CAccessOrder;
 import com.hg.learning.toBeMarshlled.DPropertyOrder;
 import org.junit.Test;
 
